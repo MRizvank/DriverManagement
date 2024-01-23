@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "65af9080d757b51d488fa300"
+  },
+  "driver_id": "D001",
+  "driver_name": "John Smith",
+  "assigned_route_id": "R001",
+  "username": "john_driver",
+  "password": "password123"
+},
+{
+  "_id": {
+    "$oid": "65af9080d757b51d488fa301"
+  },
+  "driver_id": "D002",
+  "driver_name": "Jane Doe",
+  "assigned_route_id": "R002",
+  "username": "jane_driver",
+  "password": "securePass456"
+}]

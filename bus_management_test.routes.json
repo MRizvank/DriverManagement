@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65af8829759dcf5767e6e6fd"
+  },
+  "route_id": "R001",
+  "route_name": "Route A"
+},
+{
+  "_id": {
+    "$oid": "65af8839759dcf5767e6e701"
+  },
+  "route_id": "R002",
+  "route_name": "Route B"
+},
+{
+  "_id": {
+    "$oid": "65af88989a4d7118b25b6031"
+  },
+  "route_id": "R003",
+  "route_name": "Route C"
+}]

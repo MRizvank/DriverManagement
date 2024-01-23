@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "65af8b4e7c972e9c59cf3d4e"
+  },
+  "student_name": "John Doe",
+  "student_busNumber": "B001",
+  "student_route_id": "R001",
+  "student_username": "nidha123"
+},
+{
+  "_id": {
+    "$oid": "65af8bbd7c972e9c59cf3d5c"
+  },
+  "student_name": "Jane Smith",
+  "student_busNumber": "B002",
+  "student_route_id": "R002",
+  "student_username": "jane123"
+}]

@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "65af992751321d68c66b1b19"
+  },
+  "student_id": "65af8b4e7c972e9c59cf3d4e",
+  "driver_id": "D001",
+  "attendance_date": "Sun Jan 21 2024 05:30:00 GMT+0530 (India Standard Time)",
+  "attendance_status": true,
+  "month": "01",
+  "year": 2024
+},
+{
+  "_id": {
+    "$oid": "65af9a4b7e524bb17cebae49"
+  },
+  "student_id": "65af8b4e7c972e9c59cf3d4e",
+  "driver_id": "D001",
+  "attendance_date": "Mon Jan 22 2024 05:30:00 GMT+0530 (India Standard Time)",
+  "attendance_status": true,
+  "month": "01",
+  "year": 2024
+},
+{
+  "_id": {
+    "$oid": "65af9a547e524bb17cebae51"
+  },
+  "student_id": "65af8b4e7c972e9c59cf3d4e",
+  "driver_id": "D001",
+  "attendance_date": "Tue Jan 23 2024 05:30:00 GMT+0530 (India Standard Time)",
+  "attendance_status": true,
+  "month": "01",
+  "year": 2024
+},
+{
+  "_id": {
+    "$oid": "65af9acc7e524bb17cebae59"
+  },
+  "student_id": "65af8bbd7c972e9c59cf3d5c",
+  "driver_id": "D002",
+  "attendance_date": "Tue Jan 23 2024 05:30:00 GMT+0530 (India Standard Time)",
+  "attendance_status": true,
+  "month": "01",
+  "year": 2024
+},
+{
+  "_id": {
+    "$oid": "65af9ad27e524bb17cebae61"
+  },
+  "student_id": "65af8bbd7c972e9c59cf3d5c",
+  "driver_id": "D002",
+  "attendance_date": "Sun Jan 21 2024 05:30:00 GMT+0530 (India Standard Time)",
+  "attendance_status": true,
+  "month": "01",
+  "year": 2024
+},
+{
+  "_id": {
+    "$oid": "65af9ad57e524bb17cebae66"
+  },
+  "student_id": "65af8bbd7c972e9c59cf3d5c",
+  "driver_id": "D002",
+  "attendance_date": "Mon Jan 22 2024 05:30:00 GMT+0530 (India Standard Time)",
+  "attendance_status": true,
+  "month": "01",
+  "year": 2024
+},
+{
+  "_id": {
+    "$oid": "65afb0d4c0b37ff4781dd9d1"
+  },
+  "student_id": "65af8bbd7c972e9c59cf3d5c",
+  "driver_id": "D002",
+  "attendance_date": "Sat Jan 22 2022 05:30:00 GMT+0530 (India Standard Time)",
+  "attendance_status": true,
+  "month": "01",
+  "year": 2022
+},
+{
+  "_id": {
+    "$oid": "65afb0dbc0b37ff4781dd9d9"
+  },
+  "student_id": "65af8bbd7c972e9c59cf3d5c",
+  "driver_id": "D002",
+  "attendance_date": "Fri Jan 22 2021 05:30:00 GMT+0530 (India Standard Time)",
+  "attendance_status": true,
+  "month": "01",
+  "year": 2021
+},
+{
+  "_id": {
+    "$oid": "65afb18bc0b37ff4781dd9f3"
+  },
+  "student_id": "65af8bbd7c972e9c59cf3d5c",
+  "driver_id": "D002",
+  "attendance_date": "Tue Jun 22 2021 05:30:00 GMT+0530 (India Standard Time)",
+  "attendance_status": true,
+  "month": "06",
+  "year": 2021
+}]

@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "65af9028d757b51d488fa2fd"
+  },
+  "busNumber": "B001",
+  "bus_driverName": "John Smith",
+  "driver_id": "D001",
+  "bus_route_id": "R001"
+},
+{
+  "_id": {
+    "$oid": "65af9028d757b51d488fa2fe"
+  },
+  "busNumber": "B002",
+  "bus_driverName": "Jane Doe",
+  "driver_id": "D002",
+  "bus_route_id": "R002"
+}]
